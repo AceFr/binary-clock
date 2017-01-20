@@ -136,6 +136,6 @@ void loop() //On lance le programme
 
     hours();
 
-    delay(200); //On maj les heures et les minutes toutes les minutes
+    delay(200); //On maj les heures et les minutes
 
 }
